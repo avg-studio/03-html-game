@@ -1,0 +1,167 @@
+
+ball_War_10007.png
+size: 317,144
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shenti1
+  rotate: false
+  xy: 240, 76
+  size: 32, 66
+  orig: 32, 66
+  offset: 0, 0
+  index: -1
+shenti2
+  rotate: true
+  xy: 150, 11
+  size: 38, 66
+  orig: 38, 66
+  offset: 0, 0
+  index: -1
+shenti3
+  rotate: false
+  xy: 205, 76
+  size: 33, 66
+  orig: 33, 66
+  offset: 0, 0
+  index: -1
+shenti4
+  rotate: false
+  xy: 168, 76
+  size: 35, 66
+  orig: 35, 66
+  offset: 0, 0
+  index: -1
+tou1
+  rotate: false
+  xy: 218, 4
+  size: 51, 48
+  orig: 51, 48
+  offset: 0, 0
+  index: -1
+tou2
+  rotate: false
+  xy: 2, 2
+  size: 49, 43
+  orig: 49, 43
+  offset: 0, 0
+  index: -1
+tou3
+  rotate: false
+  xy: 53, 2
+  size: 46, 43
+  orig: 46, 43
+  offset: 0, 0
+  index: -1
+tou4
+  rotate: true
+  xy: 101, 2
+  size: 46, 47
+  orig: 46, 47
+  offset: 0, 0
+  index: -1
+tou5
+  rotate: true
+  xy: 2, 47
+  size: 95, 55
+  orig: 95, 55
+  offset: 0, 0
+  index: -1
+tou6
+  rotate: true
+  xy: 59, 50
+  size: 92, 86
+  orig: 92, 90
+  offset: 0, 4
+  index: -1
+wuqi1
+  rotate: true
+  xy: 232, 54
+  size: 20, 27
+  orig: 20, 27
+  offset: 0, 0
+  index: -1
+wuqi2
+  rotate: true
+  xy: 201, 54
+  size: 20, 29
+  orig: 20, 29
+  offset: 0, 0
+  index: -1
+wuqi3
+  rotate: false
+  xy: 297, 20
+  size: 17, 24
+  orig: 17, 24
+  offset: 0, 0
+  index: -1
+wuqi4
+  rotate: false
+  xy: 271, 26
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1
+yingzi
+  rotate: true
+  xy: 147, 51
+  size: 91, 19
+  orig: 91, 19
+  offset: 0, 0
+  index: -1
+youshou1
+  rotate: false
+  xy: 274, 109
+  size: 19, 33
+  orig: 19, 33
+  offset: 0, 0
+  index: -1
+youshou2
+  rotate: false
+  xy: 297, 108
+  size: 18, 34
+  orig: 18, 34
+  offset: 0, 0
+  index: -1
+youshou3
+  rotate: false
+  xy: 297, 46
+  size: 17, 32
+  orig: 17, 32
+  offset: 0, 0
+  index: -1
+youshou4
+  rotate: true
+  xy: 261, 55
+  size: 19, 34
+  orig: 19, 34
+  offset: 0, 0
+  index: -1
+zuoshou1
+  rotate: true
+  xy: 297, 80
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+zuoshou2
+  rotate: true
+  xy: 297, 80
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+zuoshou3
+  rotate: true
+  xy: 274, 80
+  size: 27, 19
+  orig: 27, 19
+  offset: 0, 0
+  index: -1
+zuoshou4
+  rotate: false
+  xy: 168, 51
+  size: 31, 23
+  orig: 31, 23
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,188 @@
+
+ball_War_10003.png
+size: 543,110
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+peishi
+  rotate: true
+  xy: 181, 2
+  size: 36, 30
+  orig: 36, 30
+  offset: 0, 0
+  index: -1
+shenti1
+  rotate: false
+  xy: 256, 42
+  size: 31, 66
+  orig: 31, 66
+  offset: 0, 0
+  index: -1
+shenti2
+  rotate: false
+  xy: 289, 42
+  size: 31, 66
+  orig: 31, 66
+  offset: 0, 0
+  index: -1
+shenti3
+  rotate: true
+  xy: 213, 2
+  size: 38, 66
+  orig: 38, 66
+  offset: 0, 0
+  index: -1
+shenti4
+  rotate: false
+  xy: 173, 40
+  size: 32, 68
+  orig: 32, 68
+  offset: 0, 0
+  index: -1
+tou1
+  rotate: false
+  xy: 281, 2
+  size: 40, 38
+  orig: 40, 38
+  offset: 0, 0
+  index: -1
+tou2
+  rotate: true
+  xy: 395, 48
+  size: 60, 46
+  orig: 60, 46
+  offset: 0, 0
+  index: -1
+tou3
+  rotate: true
+  xy: 444, 3
+  size: 51, 48
+  orig: 51, 48
+  offset: 0, 0
+  index: -1
+tou4
+  rotate: false
+  xy: 322, 43
+  size: 58, 65
+  orig: 58, 65
+  offset: 0, 0
+  index: -1
+tou5
+  rotate: false
+  xy: 88, 22
+  size: 83, 86
+  orig: 83, 86
+  offset: 0, 0
+  index: -1
+tou6
+  rotate: true
+  xy: 2, 5
+  size: 103, 84
+  orig: 103, 84
+  offset: 0, 0
+  index: -1
+wuqi1
+  rotate: true
+  xy: 365, 4
+  size: 37, 33
+  orig: 37, 33
+  offset: 0, 0
+  index: -1
+wuqi2
+  rotate: false
+  xy: 323, 4
+  size: 40, 37
+  orig: 40, 37
+  offset: 0, 0
+  index: -1
+wuqi3
+  rotate: true
+  xy: 494, 10
+  size: 48, 45
+  orig: 48, 45
+  offset: 0, 0
+  index: -1
+wuqi4
+  rotate: false
+  xy: 207, 42
+  size: 47, 66
+  orig: 47, 66
+  offset: 0, 0
+  index: -1
+wuqi5
+  rotate: false
+  xy: 400, 3
+  size: 42, 43
+  orig: 42, 43
+  offset: 0, 0
+  index: -1
+wuqi6
+  rotate: false
+  xy: 477, 60
+  size: 46, 48
+  orig: 47, 48
+  offset: 1, 0
+  index: -1
+yingzi
+  rotate: true
+  xy: 382, 45
+  size: 63, 11
+  orig: 63, 11
+  offset: 0, 0
+  index: -1
+youshou1
+  rotate: false
+  xy: 525, 74
+  size: 16, 34
+  orig: 16, 34
+  offset: 0, 0
+  index: -1
+youshou2
+  rotate: false
+  xy: 525, 74
+  size: 16, 34
+  orig: 16, 34
+  offset: 0, 0
+  index: -1
+youshou3
+  rotate: true
+  xy: 144, 4
+  size: 16, 35
+  orig: 16, 35
+  offset: 0, 0
+  index: -1
+youshou4
+  rotate: false
+  xy: 443, 56
+  size: 32, 52
+  orig: 32, 52
+  offset: 0, 0
+  index: -1
+zuoshou1
+  rotate: true
+  xy: 88, 2
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1
+zuoshou2
+  rotate: true
+  xy: 88, 2
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1
+zuoshou4
+  rotate: true
+  xy: 88, 2
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1
+zuoshou3
+  rotate: true
+  xy: 116, 2
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1

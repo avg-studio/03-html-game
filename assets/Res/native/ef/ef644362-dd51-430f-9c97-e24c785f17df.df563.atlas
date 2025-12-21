@@ -1,0 +1,55 @@
+
+shengjitexiao.png
+size: 772,292
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huiguang1
+  rotate: false
+  xy: 302, 22
+  size: 257, 268
+  orig: 286, 300
+  offset: 13, 14
+  index: -1
+huiguang2
+  rotate: false
+  xy: 2, 6
+  size: 298, 284
+  orig: 300, 289
+  offset: 2, 3
+  index: -1
+taiyanglun
+  rotate: false
+  xy: 561, 97
+  size: 193, 193
+  orig: 193, 193
+  offset: 0, 0
+  index: -1
+wenzi
+  rotate: false
+  xy: 654, 2
+  size: 94, 26
+  orig: 124, 32
+  offset: 15, 3
+  index: -1
+wenzi2
+  rotate: false
+  xy: 654, 63
+  size: 116, 32
+  orig: 124, 32
+  offset: 4, 0
+  index: -1
+wenzi3
+  rotate: false
+  xy: 654, 30
+  size: 109, 31
+  orig: 124, 32
+  offset: 8, 0
+  index: -1
+xingxing
+  rotate: false
+  xy: 561, 2
+  size: 91, 93
+  orig: 106, 109
+  offset: 7, 8
+  index: -1
