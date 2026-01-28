@@ -1,7 +1,87 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7943c40-636f-4e1d-938d-9f3bc7f08f36" name="Changes" comment="" />
+    <list default="true" id="c7943c40-636f-4e1d-938d-9f3bc7f08f36" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/Game/import/09/099174ca-a988-475d-8ab8-90a241dfe026.1ae4e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Game/import/0f/0f11a654b.d6f44.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Game/import/10/10e55003-6674-47c2-95f3-fd9e8e489323.ac19a.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Game/import/13/1360eb25-fe51-481e-8ce6-62f42d43acb6.bcb3d.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Game/import/14/14ddd0d6-dd64-4dcb-a6f2-1223ff10bcb2.3453c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Game/import/17/171a496a-167f-4d6f-97f9-5ec2e9e529cf.55fb2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Game/import/38/3808d5b4-b5e7-4e97-b98c-df5f6c2fb208.0f247.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Game/import/3c/3c2f421c-b1ff-4a54-a1ce-808d3e70c712.fd6e7.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Game/import/3c/3ce54d33-edb0-4d14-b666-b9979f124056.1b9cf.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Game/import/45/451cd73f-a72a-496d-93a9-7a8f8063d535.f79ae.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Game/import/4f/4f5e6b5c-f666-4b38-970d-c2a9186cc8e9.5a32e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Game/import/5c/5c1db61b-05c8-4996-8ed5-55b44e7dd653.16012.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Game/import/5d/5dfad1e4-d397-4ced-a745-89d6178979b4.25a6f.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Game/import/66/66fdd4cb-3f27-43b3-831b-6b3a1a75e978.c1f7a.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Game/import/68/682a0a8e-483d-45ea-8b16-44864ecc0a2e.e793f.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Game/import/6a/6a1526b1-18f4-49a1-b1db-2545636a1c74.a9d24.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Game/import/6a/6ac7902b-aa16-45e1-9b35-6eb2c8d97bc5.fbf54.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Game/import/6f/6fd2e668-c603-4184-9d12-1d5f309bffbf.beef4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Game/import/79/79cc3917-f95d-4e1f-8822-92f0b9a67c0e.5b235.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Game/import/7b/7bf2cf8c-bc01-4799-bdbd-e886546b2d20.82f6c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Game/import/8c/8cf4feff-6ce1-4937-9fe1-dee579755f79.3a0d0.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Game/import/95/95d7e861-8890-4ecb-9087-515de267e819.9b759.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Game/import/9a/9a4968cc-f423-403f-9325-b34ef9aca5e6.fbf71.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Game/import/9d/9d290bb5-5d05-4fc8-9f0d-53e6de70c280.964cb.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Game/import/9f/9fedaebe-5b6f-4335-a3f1-5cb588c42f60.c552a.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Game/import/a5/a5d5a338-971d-4a85-841e-fc06ac208929.b4082.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Game/import/a6/a6b3eaf6-4d48-4de4-a8a7-c014c1554182.37772.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Game/import/a8/a84e1e02-c913-46dc-b4cd-e4e31dab1dca.66198.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Game/import/ac/ac0f3f08-c24f-45aa-b77a-99fc7d3ed995.89863.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Game/import/c0/c0a0d39c-1c20-444d-ba86-94ebb54a50e8.0456f.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Game/import/c8/c84a74df-51ac-4a11-b7c3-7a3276c04860.47540.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Game/import/cb/cb337056-7964-4725-9158-a39f0c5f45af.aa61f.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Game/import/cf/cf67a67e-5ce9-40f9-bc6b-cea3238ae6c4.50f01.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Game/import/d2/d2ef55b2-cdca-49b8-b05f-7602102b2b6f.6926f.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Game/import/d4/d4e181df-77d7-4a06-8fc3-75d038ac138a.54cce.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Game/import/f0/f059612c-7b0e-4375-aa4f-360459b2ae6f.f27ef.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Game/import/f3/f3eff137-237b-4e01-93f3-dfa6851be1db.fe316.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Game/import/09/099174ca-a988-475d-8ab8-90a241dfe026.7a7fb.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Game/import/0f/0f11a654b.eb991.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Game/import/10/10e55003-6674-47c2-95f3-fd9e8e489323.289d8.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Game/import/13/1360eb25-fe51-481e-8ce6-62f42d43acb6.78ba3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Game/import/14/14ddd0d6-dd64-4dcb-a6f2-1223ff10bcb2.0b694.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Game/import/17/171a496a-167f-4d6f-97f9-5ec2e9e529cf.fae12.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Game/import/38/3808d5b4-b5e7-4e97-b98c-df5f6c2fb208.9dbe5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Game/import/3c/3c2f421c-b1ff-4a54-a1ce-808d3e70c712.7a2a8.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Game/import/3c/3ce54d33-edb0-4d14-b666-b9979f124056.7f0bc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Game/import/45/451cd73f-a72a-496d-93a9-7a8f8063d535.03dab.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Game/import/4f/4f5e6b5c-f666-4b38-970d-c2a9186cc8e9.4442e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Game/import/5c/5c1db61b-05c8-4996-8ed5-55b44e7dd653.2b5cf.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Game/import/5d/5dfad1e4-d397-4ced-a745-89d6178979b4.4beff.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Game/import/66/66fdd4cb-3f27-43b3-831b-6b3a1a75e978.c9cdc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Game/import/68/682a0a8e-483d-45ea-8b16-44864ecc0a2e.8fc54.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Game/import/6a/6a1526b1-18f4-49a1-b1db-2545636a1c74.21640.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Game/import/6a/6ac7902b-aa16-45e1-9b35-6eb2c8d97bc5.4b197.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Game/import/6f/6fd2e668-c603-4184-9d12-1d5f309bffbf.3d2e6.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Game/import/79/79cc3917-f95d-4e1f-8822-92f0b9a67c0e.b8087.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Game/import/7b/7bf2cf8c-bc01-4799-bdbd-e886546b2d20.9f432.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Game/import/8c/8cf4feff-6ce1-4937-9fe1-dee579755f79.bc262.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Game/import/95/95d7e861-8890-4ecb-9087-515de267e819.4bcc6.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Game/import/9a/9a4968cc-f423-403f-9325-b34ef9aca5e6.4279f.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Game/import/9d/9d290bb5-5d05-4fc8-9f0d-53e6de70c280.5d391.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Game/import/9f/9fedaebe-5b6f-4335-a3f1-5cb588c42f60.e6069.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Game/import/a5/a5d5a338-971d-4a85-841e-fc06ac208929.70f94.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Game/import/a6/a6b3eaf6-4d48-4de4-a8a7-c014c1554182.190b9.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Game/import/a8/a84e1e02-c913-46dc-b4cd-e4e31dab1dca.4bf47.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Game/import/ac/ac0f3f08-c24f-45aa-b77a-99fc7d3ed995.0c6b0.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Game/import/c0/c0a0d39c-1c20-444d-ba86-94ebb54a50e8.2b5a6.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Game/import/c8/c84a74df-51ac-4a11-b7c3-7a3276c04860.7dbf7.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Game/import/cb/cb337056-7964-4725-9158-a39f0c5f45af.b83a7.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Game/import/cf/cf67a67e-5ce9-40f9-bc6b-cea3238ae6c4.4053e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Game/import/d2/d2ef55b2-cdca-49b8-b05f-7602102b2b6f.ec719.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Game/import/d4/d4e181df-77d7-4a06-8fc3-75d038ac138a.34bed.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Game/import/f0/f059612c-7b0e-4375-aa4f-360459b2ae6f.b23a5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Game/import/f3/f3eff137-237b-4e01-93f3-dfa6851be1db.9cd81.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,11 +92,12 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="php" />
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="37AgVowDU0AdogCl5i01oDwQ3fv" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -32,6 +113,10 @@
     "git-widget-placeholder": "main",
     "go.import.settings.migrated": "true",
     "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
@@ -54,11 +139,23 @@
       <option name="presentableId" value="Default" />
       <updated>1766351317983</updated>
       <workItem from="1766351319559" duration="18000" />
+      <workItem from="1769579934432" duration="305000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
