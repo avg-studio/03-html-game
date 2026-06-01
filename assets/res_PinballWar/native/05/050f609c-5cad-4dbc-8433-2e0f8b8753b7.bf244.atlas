@@ -1,0 +1,166 @@
+ball_War_10009.png
+size: 532,282
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B0
+  rotate: true
+  xy: 330, 26
+  size: 59, 71
+  orig: 96, 91
+  offset: 14, 13
+  index: -1
+B1
+  rotate: false
+  xy: 378, 87
+  size: 76, 74
+  orig: 96, 91
+  offset: 10, 9
+  index: -1
+B2
+  rotate: false
+  xy: 382, 163
+  size: 89, 84
+  orig: 96, 91
+  offset: 4, 3
+  index: -1
+B3
+  rotate: true
+  xy: 90, 18
+  size: 92, 86
+  orig: 96, 91
+  offset: 2, 3
+  index: -1
+B4
+  rotate: false
+  xy: 89, 112
+  size: 89, 90
+  orig: 96, 91
+  offset: 5, 0
+  index: -1
+B5
+  rotate: true
+  xy: 298, 99
+  size: 84, 78
+  orig: 96, 91
+  offset: 5, 6
+  index: -1
+B6
+  rotate: false
+  xy: 2, 2
+  size: 86, 78
+  orig: 96, 91
+  offset: 5, 7
+  index: -1
+_0000_1
+  rotate: true
+  xy: 324, 185
+  size: 73, 56
+  orig: 73, 56
+  offset: 0, 0
+  index: -1
+_0001_2
+  rotate: true
+  xy: 473, 174
+  size: 73, 56
+  orig: 73, 56
+  offset: 0, 0
+  index: -1
+_0002_3
+  rotate: true
+  xy: 456, 88
+  size: 73, 56
+  orig: 73, 56
+  offset: 0, 0
+  index: -1
+_0003_4
+  rotate: false
+  xy: 180, 65
+  size: 73, 56
+  orig: 73, 56
+  offset: 0, 0
+  index: -1
+_0004_5
+  rotate: false
+  xy: 178, 7
+  size: 73, 56
+  orig: 73, 56
+  offset: 0, 0
+  index: -1
+_0005_6
+  rotate: false
+  xy: 255, 41
+  size: 73, 56
+  orig: 73, 56
+  offset: 0, 0
+  index: -1
+dianuan
+  rotate: false
+  xy: 384, 249
+  size: 146, 31
+  orig: 146, 31
+  offset: 0, 0
+  index: -1
+feidiedi
+  rotate: false
+  xy: 2, 204
+  size: 185, 54
+  orig: 185, 54
+  offset: 0, 0
+  index: -1
+feidieqian
+  rotate: false
+  xy: 189, 188
+  size: 133, 70
+  orig: 133, 70
+  offset: 0, 0
+  index: -1
+qiu
+  rotate: false
+  xy: 403, 26
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+shandian
+  rotate: true
+  xy: 2, 260
+  size: 20, 380
+  orig: 20, 380
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 464, 27
+  size: 59, 54
+  orig: 59, 54
+  offset: 0, 0
+  index: -1
+shou1
+  rotate: true
+  xy: 255, 104
+  size: 17, 34
+  orig: 17, 34
+  offset: 0, 0
+  index: -1
+shou2
+  rotate: true
+  xy: 253, 22
+  size: 17, 34
+  orig: 17, 34
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 2, 82
+  size: 85, 120
+  orig: 85, 120
+  offset: 0, 0
+  index: -1
+zhaozi
+  rotate: false
+  xy: 180, 123
+  size: 116, 63
+  orig: 116, 63
+  offset: 0, 0
+  index: -1
